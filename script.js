@@ -13,4 +13,4 @@ function setQuote() {
 
 document.getElementById("new-quote").addEventListener("click", setQuote);
 
-setQuote(); // Set initial quote on page load
+setQuote(); 
